@@ -11,5 +11,3 @@
 | **ci**       | CI/CD 관련 설정 변경              | `ci: Github Actions 빌드 스크립트 수정`     |
 | **build**    | 빌드 시스템 변경, 의존성 추가/삭제        | `build: Spring Boot 3.2.0 업그레이드`    |
 | **revert**   | 이전 커밋 되돌리기                  | `revert: "feat: 회원가입 API 구현"`       |
-
-커밋 컨벤션 문서 추가 완료
